@@ -6,6 +6,7 @@ Installation
 ------------
 
 Install `fvwm`
+
     $ mkdir ~/.fvwm
     $ cp config ~/.fvwm
     $ cp crthumb ~/.bin
